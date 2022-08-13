@@ -1,6 +1,6 @@
 # CNN-with-C-OpenMP
 **Cnn classifier on FMNIST with C and OpenMP**
-![alt text](https://www.researchgate.net/figure/Fashion-MNIST-dataset_fig4_349913991/Fashion-MNIST-dataset_fig4_349913991.jpg)
+![alt text](https://drive.google.com/file/d/1BFzY1gG26RQIeqwwUU5UfQ6c2I9y1g2D/view?usp=sharing)
 ## Step 1 Donwload Dataset from LINK ## 
 ## Step 2 Run init.c to assign random weights to model ##
 ## Step 3 Convert training labels to one-hot-encoding by running one_hot_encoding.c ##
