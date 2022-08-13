@@ -1,5 +1,5 @@
 # CNN-with-C-OpenMP
-Cnn classifier on FMNIST with C and OpenMP
+**Cnn classifier on FMNIST with C and OpenMP**
 
 ## Step 1 Run init.c to assign random weights to model ##
 ## Step 2 Convert training labels to one-hot-encoding by running one_hot_encoding.c ##
