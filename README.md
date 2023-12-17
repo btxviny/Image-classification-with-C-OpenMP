@@ -1,5 +1,5 @@
 # CNN with C OpenMP
-**Cnn classifier on FMNIST with C and OpenMP**
+**Dnn classifier on FMNIST with C and OpenMP**
 ![MyImage](dataset-cover.png)
 ## Step 1 Donwload Dataset from LINK ## 
 ## Step 2 Run init.c to assign random weights to model ##
