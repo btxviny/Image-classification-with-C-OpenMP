@@ -1,4 +1,4 @@
-# CNN with C OpenMP
+#Image Classification with C & OpenMP
 **Dnn classifier on FMNIST with C and OpenMP**
 ![MyImage](dataset-cover.png)
  Step 1: Donwload Dataset from LINK ## 
