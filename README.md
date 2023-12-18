@@ -1,4 +1,4 @@
-##Image Classification with C & OpenMP
+## Image Classification with C & OpenMP
 **Dnn classifier on FMNIST with C and OpenMP**
 ![MyImage](dataset-cover.png)
 ##Instructions
